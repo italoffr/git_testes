@@ -1,4 +1,3 @@
 Realizando teste
 Entendendo o HEAD
 Está linha foi modificada no ramo master
-Nova modificação no arquivo
